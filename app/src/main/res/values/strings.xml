@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+</resources>
